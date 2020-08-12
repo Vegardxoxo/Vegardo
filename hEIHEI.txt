@@ -1,1 +1,2 @@
 Denne filen lagde jeg i skyen for pull request
+og jeg oppdaterte den lokalt på pcen min i bash
